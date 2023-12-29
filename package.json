@@ -1,0 +1,15 @@
+{
+  "name": "tutobot",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nobillis Gemma",
+  "license": "MIT",
+  "dependencies": {
+    "bot-discord-tools": "^1.0.5",
+    "discord.js": "^14.14.1"
+  }
+}
